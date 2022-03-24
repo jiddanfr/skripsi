@@ -1,0 +1,17 @@
+.JAWABUL_MASAIL {
+    font-size: 0.717in;
+    font-family: "TrajanPro";
+    color: rgb( 3, 0, 0 );
+    font-weight: bold;
+    text-align: left;
+    transform: matrix( 1.41041765762798, 0, 0, 1.41041765762798, 0, 0);
+    transform: matrix( 1.41041765762798, 0, 0, 1.41041765762798, 0, 0);
+    text-shadow: 0.012in 0.022in 0.025in rgb( 0, 0, 0 );
+    position: absolute;
+    left: 10.695in;
+    top: 3.49in;
+    width: 5.06in;
+    height: 2.06in;
+    z-index: 39;
+  }
+  
